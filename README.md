@@ -9,7 +9,7 @@ My goal is to build a collaborative bibliography gather social science literatur
 ### [1.Defining algorithms: sociotechnical assemblages of human and non-human elements](/1-defining-algorithms.md)
 ### [2.Debunking the myth of neutral, objective, efficient algorithms](/2-debunking-the-myth.md)
 ### [3.Observing politics through the social power of algorithms](/3-observing-politics.md)
-### [4.The challenges associated with algorithmic governmentality have to be counterbalanced by a study of algorithms in practice](/4-challenges-of-algorithms.md)
+### [4.Theoretical and practical challenges associated with algorithmic decision-making](/4-challenges-of-algorithms.md)
 ### [5.Ensuring the accountability of algorithms: going beyond transparency](/5-algorithmic-accountability.md)
 
 ## Objectives and structure of this prototype

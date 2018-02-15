@@ -1,4 +1,5 @@
-# Defining algorithms: sociotechnical assemblages of human and non-human elements
+# 1.Defining algorithms: sociotechnical assemblages of human and non-human elements
+## Initial question: What do we mean by “algorithms”?
 
 ### Barocas, S., Hood, S., & Ziewitz, M. (2013). Governing Algorithms: A Provocation Piece (SSRN Scholarly Paper No. ID 2245322). Rochester, NY: Social Science Research Network. Retrieved from https://papers.ssrn.com/abstract=2245322
 

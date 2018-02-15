@@ -1,4 +1,5 @@
 # 5.Ensuring the accountability of algorithms: going beyond transparency
+## Initial question: How to make public decision-making algorithms more accountable?
 
 ### Ananny, M. (2016). Toward an Ethics of Algorithms: Convening, Observation, Probability, and Timeliness. Science, Technology, & Human Values, 41(1), 93–117. https://doi.org/10.1177/0162243915606523
 

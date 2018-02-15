@@ -1,4 +1,5 @@
 # 3.Observing politics through the social power of algorithms
+## Initial questions: What does the use of decision-making algorithms in public administration reveal about politics? What does “algorithmic governmentality” entail? 
 
 ### Beer, D. (2017). The social power of algorithms. Information, Communication & Society, 20(1), 1–13. https://doi.org/10.1080/1369118X.2016.1216147
 

@@ -1,4 +1,5 @@
 # 2.Debunking the myth of neutral, objective, efficient algorithms
+## Initial question: Why and when are they used in public administration?
 
 ### Castro, D. (2016). Data detractors are wrong: The rise of algorithms is a cause for hope and optimism. Center for Data Innovation. Available at: www.datainnovation.org/2016/10/data-detractors-are-wrong-the-rise-of-algorithms-is-a-cause-for-hope-and-optimism/
 

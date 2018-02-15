@@ -51,7 +51,7 @@ Mazuir, F. (2004). Le processus de rationalisation chez Max Weber. Sociétés, n
 
 O’Neil, C. (2016). Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. Crown.
 
-## 4.The challenges associated with algorithmic governmentality have to be counterbalanced by a study of algorithms in practice
+## 4.Theoretical and practical challenges associated with algorithmic decision-making
 ### Initial question: What are the ethical and epistemological concerns associated with algorithmic governmentality? What changes do they bring to public administration?
 
 Benbouzid, B. (2017). Des crimes et des séismes. Réseaux, (206), 95–123. https://doi.org/10.3917/res.206.0095
